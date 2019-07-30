@@ -8,3 +8,13 @@ E:\workspace\CSharpProjects\ComDemo\ComDemo\bin\Debug\ComDemo.exe
 E:\workspace\CSharpProjects\ComDemo\ComDemo\bin\Debug\ComDemo.pdb
 E:\workspace\CSharpProjects\ComDemo\ComDemo\obj\Debug\ComDemo.exe
 E:\workspace\CSharpProjects\ComDemo\ComDemo\obj\Debug\ComDemo.pdb
+D:\Projects\ComDemo\ComDemo\bin\Debug\ComDemo.exe.config
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.exe
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.pdb
+D:\Projects\ComDemo\ComDemo\bin\Debug\ComDemo.exe
+D:\Projects\ComDemo\ComDemo\bin\Debug\ComDemo.pdb
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.csprojResolveAssemblyReference.cache
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.ComSet.resources
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.MainForm.resources
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.Properties.Resources.resources
+D:\Projects\ComDemo\ComDemo\obj\Debug\ComDemo.csproj.GenerateResource.Cache
