@@ -45,6 +45,7 @@ namespace ComDemo
             this.toolStripStatusLabel5.Text = "";
         }
 
+        //串口设计
         private void btnSetSP_Click(object sender, EventArgs e)
         {
             timer1.Enabled = false;
@@ -118,6 +119,7 @@ namespace ComDemo
             }
         }
 
+        //发送数据
         private void bntSendData_Click(object sender, EventArgs e)
         {
             if (sp.IsOpen)
@@ -138,6 +140,7 @@ namespace ComDemo
             }
         }
 
+        //选择文件
         private void btnOpenFile_Click(object sender, EventArgs e)
         {
             OpenFileDialog open = new OpenFileDialog();
@@ -161,6 +164,7 @@ namespace ComDemo
             }
         }
 
+        //发送文件内容
         private void bntSendFile_Click(object sender, EventArgs e)
         {
             string fileName = txtFileName.Text.Trim();
@@ -177,6 +181,7 @@ namespace ComDemo
             timer1.Start();
         }
 
+        //发送文件时钟
         private void timer1_Tick(object sender, EventArgs e)
         {
             string str1;
@@ -194,6 +199,7 @@ namespace ComDemo
             this.toolStripStatusLabel5.Text = "   文件发送中...";
         }
 
+        //接收数据
         private void btnReceiveData_Click(object sender, EventArgs e)
         {
             if (btnReceiveData.Text == "接收数据")
@@ -242,6 +248,7 @@ namespace ComDemo
             r();
         }
 
+        //用于接收数据的定时时钟
         private void timer2_Tick(object sender, EventArgs e)
         {
             string str = sp.ReadExisting();
