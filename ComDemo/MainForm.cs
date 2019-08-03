@@ -205,6 +205,7 @@ namespace ComDemo
             if (btnReceiveData.Text == "接收数据")
             {
                 sp.Encoding = Encoding.GetEncoding("GB2312");
+
                 if (sp.IsOpen)
                 {
                     //使用委托以及多线程进行
@@ -284,7 +285,10 @@ namespace ComDemo
                 try
                 {
                     strRecieve = sp.ReadExisting();
-                    txtReceiveData.AppendText(strRecieve);
+                    if (!String.IsNullOrEmpty(strRecieve))
+                    {
+                        txtReceiveData.AppendText(strRecieve);
+                    }
                 }
                 catch (Exception ex) { }
             }

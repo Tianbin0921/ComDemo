@@ -1,10 +1,9 @@
-E:\Projects\Temperature\ComDemo\ComDemo\bin\Debug\ComDemo.exe.config
 E:\Projects\Temperature\ComDemo\ComDemo\bin\Debug\ComDemo.exe
-E:\Projects\Temperature\ComDemo\ComDemo\bin\Debug\ComDemo.pdb
-E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.csprojResolveAssemblyReference.cache
+E:\Projects\Temperature\ComDemo\ComDemo\bin\Debug\ComDemo.exe.config
 E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.ComSet.resources
 E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.MainForm.resources
 E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.Properties.Resources.resources
 E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.csproj.GenerateResource.Cache
 E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.exe
 E:\Projects\Temperature\ComDemo\ComDemo\obj\Debug\ComDemo.pdb
+E:\Projects\Temperature\ComDemo\ComDemo\bin\Debug\ComDemo.pdb
